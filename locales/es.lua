@@ -16,9 +16,9 @@ local Translations = {
     },
     time = {
         frozenc = 'El tiempo ahora está congelado.',
-        unfrozenc = 'el tiempo ya no esta congelado.',
+        unfrozenc = 'el tiempo ya no está congelado.',
         now_frozen = 'El tiempo ahora está congelado.',
-        now_unfrozen = 'El tiempo ya no se congela.',
+        now_unfrozen = 'El tiempo ya no está congela.',
         morning = 'El tiempo se ha establecido por la mañana.',
         noon = 'El tiempo se ha establecido por el mediodía.',
         evening = 'El tiempo se ha establecido por la tarde.',
@@ -27,7 +27,7 @@ local Translations = {
         changec = 'El tiempo fue cambiado a: %{value}!',
         invalid = 'Sintaxis no válida, la sintaxis correcta es: time <hour> <minute> !',
         invalidc = 'Sintaxis inválida. usar /time <hora> <minuto> en cambio!',
-        access = 'Acceso para comando /time denegador.',
+        access = 'Acceso para comando /time denegado.',
     },
     blackout = {
         enabled = 'El apagón está ahora habilitado.',
@@ -36,8 +36,8 @@ local Translations = {
         disabledc = 'El apagón ahora está deshabilitado.',
     },
     help = {
-        weathercommand = 'Change the weather.',
-        weathertype = 'weathertype',
+        weathercommand = 'Cambiar el clima.',
+        weathertype = 'tipo de clima'
         availableweather = 'Tipos disponibles: extrasunny, clear, neutral, smog, foggy, overcast, clouds, clearing, rain, thunder, snow, blizzard, snowlight, xmas & halloween',
         timecommand = 'Cambiar el tiempo.',
         timehname = 'Hora',
